@@ -35,7 +35,10 @@ In the simulated annealing as a pseudo-random number generator (PRNG) a Mersenne
 Reads data file and splits data by city, coordinate X, coordinate Y and saves data to ArrayList
 
 ## How to Run a Project
-After clonning the ropository, project folder can be opened with Netbeans. 
+After clonning the repository, project folder can be opened with Netbeans. 
+```
+git clone https://github.com/SimonKravtsov/simulatedAnnealing.git
+```
 Program is run from Main.java class where different csv files with different number of cities can to a solition from the 
 algorithm. Other files can be downloaded from: http://www.math.uwaterloo.ca/tsp/data/ to try out and compare algorithm to 
 other results
