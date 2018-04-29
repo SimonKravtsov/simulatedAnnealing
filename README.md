@@ -1,6 +1,6 @@
 # Simulated Annealing for TSP
 
-Solving Travels Man Sales Problems Using Simulated Annealing Algorithm Implemented in Java, Neatbeans Platform
+## Solving Travels Man Sales Problems Using Simulated Annealing Algorithm Implemented in Java, Neatbeans Platform
 
 This algorithm works by comparing new random solution to current solution. The algorithm can accept a worse solution to allow for more exhaustive search, however, the probability of that happening will start decreasing as the temperature cools down at a given rate.
 
